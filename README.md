@@ -16,11 +16,11 @@ A multi-threaded, algorithm-driven simulation project that replicates real-time 
 
 ## 🖼️ Screenshots & Output Samples
 
-> *Replace these links with your own images or outputs*
-
-- ![Simulation Interface](images/simulator_screenshot.png)
-- ![YOLO Detection Sample](images/yolo_detection_sample.png)
-- ![Comparison Graph](images/performance_comparison_chart.png)
+- ![Simulation Interface]
+- ![Screenshot 2025-06-15 230840](https://github.com/user-attachments/assets/fe7bb22e-3723-44e7-8f82-83b7506541c3)
+- ![YOLO Detection Sample]
+- ![Screenshot 2025-06-19 213925](https://github.com/user-attachments/assets/08bcf0fc-4f2e-489c-8848-160e0ab8bb48)
+- ![Screenshot 2025-06-19 213851](https://github.com/user-attachments/assets/8f3e5479-b51a-491c-b96f-2e8915b584d3)
 
 ---
 
